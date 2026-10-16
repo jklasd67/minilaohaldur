@@ -1,0 +1,70 @@
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 1
+Piim | hind: 1.50 € | kogus: 10 | toidukaup; säilitamine: külmkapis
+Leib | hind: 2.00 € | kogus: 5 | toidukaup; säilitamine: kuivas kohas
+Veekeetja | hind: 25.00 € | kogus: 2 | elektroonika; garantii: 24 kuud
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 2
+Liik (1 = toidukaup, 2 = elektroonika): 1
+Nimi: Õun
+Hind eurodes: 0,80
+Kogus: 6
+Säilitamisjuhis: jahedas
+Toode lisatud: Õun | hind: 0.80 € | kogus: 6 | toidukaup; säilitamine: jahedas
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 4
+Otsing (osa nimest): ÕU
+Õun | hind: 0.80 € | kogus: 6 | toidukaup; säilitamine: jahedas
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 3
+Toote täpne nimi: Õun
+Koguse muutus (nt 5 või -2): -2
+Kogus muudetud: Õun | hind: 0.80 € | kogus: 4 | toidukaup; säilitamine: jahedas
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 5
+Lao koguväärtus: 78.20 €
+
+--- POE LAOHALDUS ---
+1. Kuva kõik tooted
+2. Lisa uus toode
+3. Muuda toote kogust
+4. Otsi nime järgi
+5. Kuva lao koguväärtus
+0. Välju
+Valik: 0
+Head aega!
