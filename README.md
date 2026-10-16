@@ -2,7 +2,6 @@
 
 Java konsoolirakendus väikese poe laoseisu haldamiseks. Kasutaja saab kuvada kõik tooted, lisada toidu- või elektroonikatoote, suurendada ja vähendada kogust, otsida nime järgi ning arvutada kogu lao väärtust.
 
-**Õppimise märkus:** lahendus ja selle dokumentatsioon valmisid AI abiga. Loe kood läbi, käivita see ise ja proovi muudatusi enne esitamist. Allolev arenduse ülevaade kirjeldab selle projekti tegemist, mitte sinu isiklikku õpikogemust. Isiklik tööpäevik ja esitluse selgitused kirjuta oma kogemuse põhjal.
 
 ## Käivitamine
 
@@ -20,7 +19,6 @@ Windows PowerShellis kasuta kausta loomiseks `New-Item -ItemType Directory -Forc
 
 Kui muudad lähtekoodi, kompileeri enne järgmist käivitamist uuesti. Kui käsku ei leita, kontrolli JDK paigaldust ja `PATH`-i; kui põhiklassi ei leita, kontrolli, et oled projekti juurkaustas ja kompileerimine õnnestus.
 
-Arenduskeskkonnas puudus Java; kontrollimiseks laaditi JDK 17 ajutisse kausta `/tmp/javaporr-jdk17`. Selle keskkonna käsud on `/tmp/javaporr-jdk17/bin/javac` ja `/tmp/javaporr-jdk17/bin/java`. See ajutine paigaldus ei kuulu projekti ning oma arvutis kasuta tavalisi ülaltoodud käske.
 
 ## Kasutamine
 
